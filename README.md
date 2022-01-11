@@ -1,6 +1,6 @@
 <div>
 
-<img align="right" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif?raw=true"  width="350" style="border-radius:50px">
+<img align="right" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif?raw=true"  height="250" style="border-radius:50px">
 
 _Hello there, this is **Yash Patel**. A **Full Stack Web Developer** with a vision to make this web beautiful. I spend my whole day, experimenting with HTML, CSS, and JavaScript; dabbling with ReactJS and NodeJS. I build websites that delight and inform. I do it well._
 - 🔭 I’m currently working on MERN stack.
