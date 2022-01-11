@@ -13,17 +13,17 @@ _Hello there, this is **Yash Patel**. A **Full Stack Web Developer** with a visi
 <p align="center"><h3 align='center'><i>Social Media Handles</i></h3></p>
 <p align='center'>
 &nbsp;&nbsp;
-<a href="https://www.codechef.com/users/y4sh_patel" target="_blank"><img height="30" src="https://cdn.codechef.com/images/cc-logo-sd.svg"></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/y4sh_patel" target="_blank"><img height="30" src="https://www.ime.usp.br/~arcjr/image/codeforces.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yash-patel-b87b46195/" target="_blank"><img height="30" src="https://img.icons8.com/fluency/50/000000/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send?phone=919825114256" target="_blank"><img "height="30" src="https://img.icons8.com/color/30/000000/whatsapp--v1.png" /></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/y4sh_patel/" target="_blank"><img height="30" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a>
+<a href="https://www.codechef.com/users/y4sh_patel" ><img height="30" src="https://cdn.codechef.com/images/cc-logo-sd.svg"></a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/y4sh_patel" ><img height="30" src="https://www.ime.usp.br/~arcjr/image/codeforces.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yash-patel-b87b46195/" ><img height="30" src="https://img.icons8.com/fluency/50/000000/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send?phone=919825114256" ><img "height="30" src="https://img.icons8.com/color/30/000000/whatsapp--v1.png" /></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/y4sh_patel/" ><img height="30" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a>
 </p>
 <p align="center"><p> <img align="center" src="https://komarev.com/ghpvc/?username=y4sh-patel&color=blue" alt="counter"> </p></p>
 </div>
 <h2 align='center'><i><a href="https://github.com/y4sh-patel/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/y4sh-patel/github-readme-activity-graph" target="_blank">
+<a href="https://github.com/y4sh-patel/github-readme-activity-graph" >
  <img src="https://activity-graph.herokuapp.com/graph?username=y4sh-patel&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
@@ -101,6 +101,6 @@ _Hello there, this is **Yash Patel**. A **Full Stack Web Developer** with a visi
 ## 🎫 Top Repositories
 <div>
 
-<a href="https://github.com/y4sh-patel/face-recognition-app" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-patel&repo=face-recognition-app&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" ></a>
-<a href="https://github.com/y4sh-patel/robotfriends" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-patel&repo=robotfriends&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" align="right" ></a>
+<a href="https://github.com/y4sh-patel/face-recognition-app" ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-patel&repo=face-recognition-app&description=true&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" ></a>
+<a href="https://github.com/y4sh-patel/robotfriends" ><img  src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-patel&repo=robotfriends&show_icons=true&description=true&theme=tokyonight&border_color=ffffff" width="45%" align="right" ></a>
 </div>
