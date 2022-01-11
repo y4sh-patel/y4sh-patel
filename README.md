@@ -1,6 +1,6 @@
 <div>
 
-<img align="right" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif?raw=true"  width="500" style="border-radius:50px">
+<img align="right" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif?raw=true"  width="350" style="border-radius:50px">
 
 _Hello there, this is **Yash Patel**. A **Full Stack Web Developer** with a vision to make this web beautiful. I spend my whole day, experimenting with HTML, CSS, and JavaScript; dabbling with ReactJS and NodeJS. I build websites that delight and inform. I do it well._
 - 🔭 I’m currently working on MERN stack.
@@ -12,18 +12,18 @@ _Hello there, this is **Yash Patel**. A **Full Stack Web Developer** with a visi
 </br>
 <p align="center"><h3 align='center'><i>Social Media Handles</i></h3></p>
 <p align='center'>
-<a href="https://www.instagram.com/y4sh_patel/"><img height="30" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a>&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/y4sh_patel"><img height="30" src="https://cdn.codechef.com/images/cc-logo-sd.svg"></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/y4sh_patel"><img height="30" src="https://www.ime.usp.br/~arcjr/image/codeforces.png"></a>&nbsp;&nbsp;
-<a href="https://github.com/y4sh-patel"><img height="30" src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yash-patel-b87b46195/"><img height="30" src="https://img.icons8.com/fluency/50/000000/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send?phone=919825114256"><img "height="30" src="https://img.icons8.com/color/30/000000/whatsapp--v1.png" /></a>&nbsp;&nbsp;
+&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/y4sh_patel" target="_blank"><img height="30" src="https://cdn.codechef.com/images/cc-logo-sd.svg"></a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/y4sh_patel" target="_blank"><img height="30" src="https://www.ime.usp.br/~arcjr/image/codeforces.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yash-patel-b87b46195/" target="_blank"><img height="30" src="https://img.icons8.com/fluency/50/000000/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send?phone=919825114256" target="_blank"><img "height="30" src="https://img.icons8.com/color/30/000000/whatsapp--v1.png" /></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/y4sh_patel/" target="_blank"><img height="30" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a>
 </p>
 <p align="center"><p> <img align="center" src="https://komarev.com/ghpvc/?username=y4sh-patel&color=blue" alt="counter"> </p></p>
 </div>
 <h2 align='center'><i><a href="https://github.com/y4sh-patel/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/y4sh-patel/github-readme-activity-graph">
+<a href="https://github.com/y4sh-patel/github-readme-activity-graph" target="_blank">
  <img src="https://activity-graph.herokuapp.com/graph?username=y4sh-patel&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
@@ -101,6 +101,6 @@ _Hello there, this is **Yash Patel**. A **Full Stack Web Developer** with a visi
 ## 🎫 Top Repositories
 <div>
 
-<a href="https://github.com/y4sh-patel/face-recognition-app"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-patel&repo=face-recognition-app&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" ></a>
-<a href="https://github.com/y4sh-patel/robotfriends"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-patel&repo=robotfriends&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" align="right" ></a>
+<a href="https://github.com/y4sh-patel/face-recognition-app" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-patel&repo=face-recognition-app&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" ></a>
+<a href="https://github.com/y4sh-patel/robotfriends" target="_blank"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-patel&repo=robotfriends&show_icons=true&theme=tokyonight&border_color=ffffff" width="45%" align="right" ></a>
 </div>
