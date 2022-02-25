@@ -80,7 +80,7 @@ _Hello there, this is **Yash Patel**. A **Full Stack Web Developer** with a visi
         <img src="https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/116px-PostgreSQL_logo.3colors.svg.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="60">
+        <img src="https://www.kindpng.com/imgv/TxmRmJw_amazon-web-services-to-open-data-centers-in/" width="60">
     </td>
 </tr>
 </table>
