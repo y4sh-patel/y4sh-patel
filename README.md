@@ -6,7 +6,9 @@ _Hello there, this is **Yash Patel**. A **Full Stack Web Developer** with a visi
 - 🔭 I’m currently working on MERN stack.
 - 🌱 Competitive Programming Enthusiast.
 - 👯 I’m looking to collaborate with other devs on cool projects!
+- 👨‍🎓 Former SDE Summer Intern at MasterCard.
 - 👨‍🎓 Former Full Stack Developer Intern at Spinach21.
+
 </div>
 <div align="center">
 </br>
