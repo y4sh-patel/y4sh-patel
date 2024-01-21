@@ -15,14 +15,13 @@ _Hello there, this is **Yash Patel**. A **Full Stack Web Developer** with a visi
 <p align='center'>
 &nbsp;&nbsp;
 <a href="https://www.codechef.com/users/y4sh_patel" ><img height="30" src="https://cdn.codechef.com/images/cc-logo-sd.svg"></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/y4sh_patel" ><img height="30" src="https://www.ime.usp.br/~arcjr/image/codeforces.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yash-patel-b87b46195/" ><img height="30" src="https://img.icons8.com/fluency/50/000000/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://api.whatsapp.com/send?phone=919825114256" ><img "height="30" src="https://img.icons8.com/color/30/000000/whatsapp--v1.png" /></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/y4sh_patel/" ><img height="30" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"></a>
 </p>
 <p align="center"><p> <img align="center" src="https://komarev.com/ghpvc/?username=y4sh-patel&color=blue" alt="counter"> </p></p>
 </div>
-<h2 align='center'><i><a href="https://github.com/y4sh-patel/github-readme-activity-graph">Activity Graph 📈</i></h2>
+
 <p align="center">
 <a href="https://github.com/y4sh-patel/github-readme-activity-graph" >
  <img src="https://activity-graph.herokuapp.com/graph?username=y4sh-patel&theme=react-dark&area=true&hide_border=true" width="100%">
