@@ -22,12 +22,6 @@ _Hello there, this is **Yash Patel**. A **Full Stack Web Developer** with a visi
 <p align="center"><p> <img align="center" src="https://komarev.com/ghpvc/?username=y4sh-patel&color=blue" alt="counter"> </p></p>
 </div>
 
-<p align="center">
-<a href="https://github.com/y4sh-patel/github-readme-activity-graph" >
- <img src="https://activity-graph.herokuapp.com/graph?username=y4sh-patel&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
-</br>
 <h2 align='center'><i>💻⚙ Tech Stack & Tools ⚙💻</i></h2>
 
 <table width="100">
